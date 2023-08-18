@@ -1,6 +1,6 @@
-# identificacao_sinais_libras
+# Sistema Inteligente na Interpretação da Língua Brasileira de Sinais Em Tempo Real
 
-Trabalho final para a disciplina de Visão Computacional - INF0417, ministrada pelo professor Aldo André Díaz Salazar, INF-UFG.
+Trabalho final para a disciplina de Visão Computacional - INF0417, ministrada pelo professor Aldo André Díaz Salazar, INF-UFG. O objetivo do trabalho é possibilitar a identificação em tempo real de palavras e frases em Libras.
 
 # Team 74
 
